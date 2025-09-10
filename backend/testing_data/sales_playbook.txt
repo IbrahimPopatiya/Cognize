@@ -1,0 +1,16 @@
+Title: Google Cloud Customer Success Playbook
+
+1. Engagement Stages:
+   - Onboarding → Adoption → Expansion → Renewal.
+
+2. Key Metrics:
+   - Product adoption rate must exceed 70% in first 90 days.
+   - Customer satisfaction score (CSAT) target: 8.5/10.
+
+3. Escalation Protocol:
+   - High-risk customers must be flagged to Customer Success Managers.
+   - Engineering escalation only via official JIRA tickets.
+
+4. Renewal Strategy:
+   - Begin renewal discussions at least 90 days before contract end.
+   - Offer upsell opportunities tied to usage data.

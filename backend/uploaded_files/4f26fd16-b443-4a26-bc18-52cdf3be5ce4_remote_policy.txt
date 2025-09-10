@@ -1,0 +1,16 @@
+Title: Google Remote Work Policy – 2024
+
+1. Eligibility:
+   - Full-time employees are eligible for remote work up to 3 days per week.
+   - Exceptions may be made for roles requiring physical presence.
+
+2. Security:
+   - Employees must connect through the official VPN for all internal systems.
+   - Devices must have endpoint protection enabled.
+
+3. Meetings:
+   - Teams must schedule at least one in-person sync per quarter.
+   - Video conferencing should use Google Meet.
+
+4. Expense Policy:
+   - Internet and ergonomic equipment costs can be reimbursed up to $200/month.

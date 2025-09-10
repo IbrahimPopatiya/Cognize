@@ -1,0 +1,20 @@
+Title: Google Internal API Design Guidelines
+
+Overview:
+These guidelines standardize API development across engineering teams.
+
+1. Authentication:
+   - All APIs must use OAuth 2.0 with service account support.
+   - Tokens should be rotated every 24 hours.
+
+2. Error Handling:
+   - Use clear, structured error codes (e.g., INVALID_ARGUMENT, PERMISSION_DENIED).
+   - Always include a human-readable message.
+
+3. Versioning:
+   - Use /v1, /v2 in API endpoints.
+   - Breaking changes must trigger a new version.
+
+4. Documentation:
+   - Every API method requires at least one usage example.
+   - Updates to APIs must be documented in the internal API Portal.

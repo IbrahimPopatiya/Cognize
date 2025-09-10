@@ -1,0 +1,5 @@
+general: "Explain clearly in a professional but simple tone."
+legal: "Rewrite as if addressing legal professionals. Use precise, formal language."
+medical: "Rewrite as if addressing clinicians. Ensure clinical accuracy but keep explanations clear."
+technical: "Rewrite for engineers or researchers. Use rigorous technical language."
+simple: "Rewrite for complete beginners. Use very simple words and analogies if helpful."
