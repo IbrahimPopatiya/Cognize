@@ -7,7 +7,7 @@ async def run_summary_pipeline(query: str, summarization_agent):
     result = await Runner.run(summarization_agent, query)
     return result.final_output
 
-
+# My Lookup Pipeline
 async def run_lookup_pipeline(query: str, retrival_agent, answering_agent, sorce_Attributtion_agent):
     retrieval_result = await Runner.run(retrival_agent, query)
     chunks = retrieval_result.final_output.chunks
