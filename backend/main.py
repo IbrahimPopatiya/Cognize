@@ -8,6 +8,7 @@ from api.document_api import document_router
 
 Base.metadata.create_all(bind=engine)
 
+# Initialized an APP
 app = FastAPI()
 
 app.include_router(document_router)
